@@ -85,6 +85,26 @@ This app is a 3rd Party Android Client for Reddit, which will allow users a clea
    * [Comments Have a Reply Button and can be Upvoted or Downvoted]
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
+[Here is the handrawn wireframe]
+<img src="https://i.imgur.com/Kh1zSbs.jpg"
+width=600>
+<img src="https://i.imgur.com/CloVQOk.jpg"
+width=600>
+<img src="https://i.imgur.com/eq38p03.jpg
+"
+width=600>
+<img src="https://i.imgur.com/ePW5Qky.jpg
+"
+width=600>
+[Here the digital wireframe]
+<img src="https://i.imgur.com/ymNHMOa.jpg
+"
+width=600>
+<img src="https://i.imgur.com/HuNrqgt.jpg
+"
+width=600>
+<img src="https://i.imgur.com/9R7mxce.jpg"
+width=600>
+<img src="https://i.imgur.com/B9SsuLk.jpg
+"
+width=600>

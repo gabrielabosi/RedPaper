@@ -111,7 +111,17 @@ width=600>
 
 ## Schema
 
-| First Header  | Second Header | Third Header |
+| Property  | Type | Description |
 | ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
+| objectId  | String  | unique ID for the users Post 
+| cObjectId  | String  | unique ID for the users comment
+| image | File | image that user posts 
+| title | String | title for users post
+| upvoteCount | Number | number of upvotes on a post
+| downvoteCount | Number | number of downvotes on a post
+| createdAt | DateTime | date when post was created
+| updatedAt | DateTime | date when post is last updated
+
+**Networking**
+[List of network requests by screen]
+

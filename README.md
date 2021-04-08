@@ -108,3 +108,10 @@ width=600>
 <img src="https://i.imgur.com/B9SsuLk.jpg
 "
 width=600>
+
+##Schema
+
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  |

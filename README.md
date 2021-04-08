@@ -111,6 +111,9 @@ width=600>
 
 ## Schema
 
+**Models**
+**Post**
+
 | Property  | Type | Description |
 | ------------- | ------------- | ------------ |
 | objectId  | String  | unique ID for the users Post 
@@ -123,5 +126,5 @@ width=600>
 | updatedAt | DateTime | date when post is last updated
 
 **Networking**
-[List of network requests by screen]
+*[List of network requests by screen]
 

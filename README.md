@@ -126,5 +126,17 @@ width=600>
 | updatedAt | DateTime | date when post is last updated
 
 **Networking**
-*[List of network requests by screen]
+[Network Request]
+   * Internet Premission in the manifest file.
+  
+[Home Feed]
+   * (Read/GET) Query all posts where user is author
+    * (Create/POST) Create a new like on a post
+    * (Delete) Delete existing like
+    * (Create/POST) Create a new comment on a post
+    * (Delete) Delete existing comment
+    
+[Create Post Screen]
+* (Create/POST) Create a new post object
+    
 

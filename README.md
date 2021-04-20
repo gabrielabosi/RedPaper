@@ -3,6 +3,8 @@ Original App Design Project - README Template
 
 # RedPaper
 
+![me](https://github.com/CodePathRedditTeam/RedPaper/blob/main/Milestone%201.gif)
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)

@@ -37,10 +37,10 @@ This app is a 3rd Party Android Client for Reddit, which will allow users a clea
 
 **Optional Nice-to-have Stories**
 
-[] news page with current events 
-[] page with what is the most popular forums on reddit
-[] User can chat using Reddits Chat Feature
-[] User can view RPan, Reddits Live Service
+- [ ] news page with current events 
+- [ ] page with what is the most popular forums on reddit
+- [ ] User can chat using Reddits Chat Feature
+- [ ] User can view RPan, Reddits Live Service
 
 
 ### 2. Screen Archetypes

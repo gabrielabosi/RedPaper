@@ -1,44 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FF0000"
     android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/etUsername"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#FAF7F7"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        android:textColor="#FFFDFD" />
-
-    <EditText
-        android:id="@+id/etPassword"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#F6F3F3"
-        android:ems="10"
-        android:inputType="textPassword"
-        android:textColor="#FFFFFF" />
-
-    <Button
-        android:id="@+id/btnLogin"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#000000"
-        android:text="Button" />
-
     <CheckedTextView
         android:id="@+id/checkedTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:baselineAligned="false"
-        android:text="CheckedTextView"
+        android:text="RedPaper"
         android:textColor="#F8F6F6"
-        android:textSize="36sp"
+        android:textSize="40sp"
         android:textStyle="bold|italic"
+        android:translationX="110dp"
+        android:translationY="50dp"
         tools:text="RedPaper" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="163dp"
+        android:layout_height="54dp"
+        android:translationX="230dp"
+        app:srcCompat="?android:attr/actionModeFindDrawable"
+        tools:srcCompat="?android:attr/actionModeFindDrawable" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textEmailAddress"
+        android:textColor="#FFFEFE"
+        tools:text="Username" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="Password"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="#F1EEEE"
+        tools:text="Password" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login" />
 </LinearLayout>

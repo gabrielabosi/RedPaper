@@ -1,0 +1,11 @@
+com/example/redpaper/ParseApplication.java
+ com.example.redpaper.ParseApplication
+com/example/redpaper/MainActivity.java
+ com.example.redpaper.MainActivity
+ com.example.redpaper.MainActivity$1
+com/example/redpaper/LoginActivity.java
+ com.example.redpaper.LoginActivity
+ com.example.redpaper.LoginActivity$1
+ com.example.redpaper.LoginActivity$2
+com/example/redpaper/BuildConfig.java
+ com.example.redpaper.BuildConfig

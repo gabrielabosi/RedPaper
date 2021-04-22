@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> 5cfbc45650ef58b960e7388dddf90e2a0a372ec3
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#FF0000"
-    android:orientation="vertical">
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
 
     <CheckedTextView
         android:id="@+id/checkedTextView"
@@ -32,26 +38,45 @@
         android:id="@+id/etUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:ems="10"
         android:hint="Username"
         android:inputType="textEmailAddress"
         android:textColor="#FFFEFE"
         tools:text="Username" />
+=======
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Username"/>
+>>>>>>> 5cfbc45650ef58b960e7388dddf90e2a0a372ec3
 
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:contentDescription="Password"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
         android:textColor="#F1EEEE"
         tools:text="Password" />
+=======
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" />
+>>>>>>> 5cfbc45650ef58b960e7388dddf90e2a0a372ec3
 
     <Button
         android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="Login" />
+=======
+        android:layout_weight="1"
+        android:text="Login"/>
+
+>>>>>>> 5cfbc45650ef58b960e7388dddf90e2a0a372ec3
 </LinearLayout>

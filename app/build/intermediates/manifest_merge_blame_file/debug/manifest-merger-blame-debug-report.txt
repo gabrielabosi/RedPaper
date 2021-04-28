@@ -6,68 +6,68 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml
+8-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml
+9-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:5:5-79
-11-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:5:22-76
+11-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:5:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:6:5-67
-12-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:6:22-64
+12-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:6:22-64
 13
 14    <queries>
-14-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:8:5-15:15
+14-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:8:5-15:15
 15
 16        <!-- Camera -->
 17        <intent>
-17-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:11:9-13:18
+17-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:11:9-13:18
 18            <action android:name="android.media.action.IMAGE_CAPTURE" />
-18-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:12:13-73
-18-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:12:21-70
+18-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:12:13-73
+18-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:12:21-70
 19        </intent>
 20    </queries>
 21
 22    <application
-22-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:17:5-38:19
+22-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:17:5-38:19
 23        android:name="com.example.redpaper.ParseApplication"
-23-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:18:9-41
+23-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:18:9-41
 24        android:allowBackup="true"
-24-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:19:9-35
+24-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:19:9-35
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-25-->[androidx.core:core:1.3.1] /Users/anyefrimpong/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
+25-->[androidx.core:core:1.3.1] C:\Users\13475\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 26        android:debuggable="true"
 27        android:icon="@mipmap/ic_launcher"
-27-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:20:9-43
+27-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:20:9-43
 28        android:label="@string/app_name"
-28-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:21:9-41
+28-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:21:9-41
 29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:22:9-54
+29-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:22:9-54
 30        android:supportsRtl="true"
-30-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:23:9-35
+30-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:23:9-35
 31        android:testOnly="true"
 32        android:theme="@style/Theme.RedPaper"
-32-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:25:9-46
+32-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:25:9-46
 33        android:usesCleartextTraffic="true" >
-33-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:24:9-44
+33-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:24:9-44
 34        <activity android:name="com.example.redpaper.LoginActivity" >
-34-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:28:9-34:20
-34-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:28:19-48
+34-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:28:9-34:20
+34-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:28:19-48
 35            <intent-filter>
-35-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:29:13-33:29
+35-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:29:13-33:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:30:17-69
-36-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:30:25-66
+36-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:30:17-69
+36-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:30:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:32:17-77
-38-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:32:27-74
+38-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:32:17-77
+38-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:32:27-74
 39            </intent-filter>
 40        </activity>
 41        <activity android:name="com.example.redpaper.MainActivity" >
-41-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:35:9-37:20
-41-->/Users/anyefrimpong/AndroidStudioProjects/RedPaper2/app/src/main/AndroidManifest.xml:35:19-47
+41-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:35:9-37:20
+41-->C:\Users\13475\Desktop\Redpapperv3\app\src\main\AndroidManifest.xml:35:19-47
 42        </activity>
 43    </application>
 44

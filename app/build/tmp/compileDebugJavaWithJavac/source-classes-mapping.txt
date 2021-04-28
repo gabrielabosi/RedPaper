@@ -1,8 +1,27 @@
-com/example/redpaper/ParseApplication.java
- com.example.redpaper.ParseApplication
 com/example/redpaper/MainActivity.java
  com.example.redpaper.MainActivity
  com.example.redpaper.MainActivity$1
+ com.example.redpaper.MainActivity$2
+com/example/redpaper/ParseApplication.java
+ com.example.redpaper.ParseApplication
+com/example/redpaper/ProfileFragment.java
+ com.example.redpaper.ProfileFragment
+ com.example.redpaper.ProfileFragment$1
+com/example/redpaper/Fragments/ComposeFragment.java
+ com.example.redpaper.Fragments.ComposeFragment
+ com.example.redpaper.Fragments.ComposeFragment$1
+ com.example.redpaper.Fragments.ComposeFragment$2
+com/example/redpaper/Fragments/PostFragment.java
+ com.example.redpaper.Fragments.PostFragment
+ com.example.redpaper.Fragments.PostFragment$1
+com/example/redpaper/Post.java
+ com.example.redpaper.Post
+com/example/redpaper/PostsFragment.java
+ com.example.redpaper.PostsFragment
+ com.example.redpaper.PostsFragment$1
+com/example/redpaper/PostAdapter.java
+ com.example.redpaper.PostAdapter
+ com.example.redpaper.PostAdapter$ViewHolder
 com/example/redpaper/LoginActivity.java
  com.example.redpaper.LoginActivity
  com.example.redpaper.LoginActivity$1
